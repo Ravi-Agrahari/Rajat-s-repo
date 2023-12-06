@@ -1,1 +1,2 @@
 Hello , this is the text inside new.txt 
+this is different line added in newbranch 
